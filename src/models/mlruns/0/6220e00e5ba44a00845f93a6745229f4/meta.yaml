@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/6220e00e5ba44a00845f93a6745229f4/artifacts
+end_time: 1753442629788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6220e00e5ba44a00845f93a6745229f4
+run_name: funny-shark-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753442617739
+status: 4
+tags: []
+user_id: Shayan

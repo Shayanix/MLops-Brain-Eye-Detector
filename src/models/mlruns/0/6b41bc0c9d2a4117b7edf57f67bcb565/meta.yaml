@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/6b41bc0c9d2a4117b7edf57f67bcb565/artifacts
+end_time: 1753443058106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b41bc0c9d2a4117b7edf57f67bcb565
+run_name: bemused-yak-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753443049241
+status: 3
+tags: []
+user_id: Shayan

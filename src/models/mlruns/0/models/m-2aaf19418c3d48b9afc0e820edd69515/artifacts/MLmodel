@@ -1,0 +1,37 @@
+artifact_path: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/models/m-2aaf19418c3d48b9afc0e820edd69515/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-2aaf19418c3d48b9afc0e820edd69515
+model_size_bytes: 19676750
+model_uuid: m-2aaf19418c3d48b9afc0e820edd69515
+prompts: null
+run_id: 6b41bc0c9d2a4117b7edf57f67bcb565
+signature:
+  inputs: '[{"type": "double", "name": "AF3", "required": true}, {"type": "double",
+    "name": "F7", "required": true}, {"type": "double", "name": "F3", "required":
+    true}, {"type": "double", "name": "FC5", "required": true}, {"type": "double",
+    "name": "T7", "required": true}, {"type": "double", "name": "P7", "required":
+    true}, {"type": "double", "name": "O1", "required": true}, {"type": "double",
+    "name": "O2", "required": true}, {"type": "double", "name": "P8", "required":
+    true}, {"type": "double", "name": "T8", "required": true}, {"type": "double",
+    "name": "FC6", "required": true}, {"type": "double", "name": "F4", "required":
+    true}, {"type": "double", "name": "F8", "required": true}, {"type": "double",
+    "name": "AF4", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-25 11:30:51.504043'

@@ -1,0 +1,15 @@
+digest: bf0c4422
+name: dataset
+profile: '{"num_rows": 11984, "num_elements": 167776}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "AF3", "required": true},
+  {"type": "double", "name": "F7", "required": true}, {"type": "double", "name": "F3",
+  "required": true}, {"type": "double", "name": "FC5", "required": true}, {"type":
+  "double", "name": "T7", "required": true}, {"type": "double", "name": "P7", "required":
+  true}, {"type": "double", "name": "O1", "required": true}, {"type": "double", "name":
+  "O2", "required": true}, {"type": "double", "name": "P8", "required": true}, {"type":
+  "double", "name": "T8", "required": true}, {"type": "double", "name": "FC6", "required":
+  true}, {"type": "double", "name": "F4", "required": true}, {"type": "double", "name":
+  "F8", "required": true}, {"type": "double", "name": "AF4", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Shayan", "mlflow.source.name": "train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "555e3fcfbaa97a2dacabe69c9de20c1b2cf081d4"}}'
+source_type: code

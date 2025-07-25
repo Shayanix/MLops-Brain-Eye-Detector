@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/models/m-2aaf19418c3d48b9afc0e820edd69515/artifacts
+creation_timestamp: 1753443051454
+experiment_id: '0'
+last_updated_timestamp: 1753443055932
+model_id: m-2aaf19418c3d48b9afc0e820edd69515
+model_type: null
+name: model
+source_run_id: 6b41bc0c9d2a4117b7edf57f67bcb565
+status: 2
+status_message: null
