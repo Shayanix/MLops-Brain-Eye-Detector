@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/1db2ffb9349a43158e1692d7229db279/artifacts
+end_time: 1753444986915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1db2ffb9349a43158e1692d7229db279
+run_name: judicious-horse-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444985545
+status: 3
+tags: []
+user_id: Shayan

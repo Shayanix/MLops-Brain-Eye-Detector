@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/02a6f37d7fa34c8e8a598453c7fe9f1b/artifacts
+end_time: 1753444996449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02a6f37d7fa34c8e8a598453c7fe9f1b
+run_name: nebulous-chimp-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444994465
+status: 3
+tags: []
+user_id: Shayan

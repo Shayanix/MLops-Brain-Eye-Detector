@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/56cb39616b374a31a53a4bf55396bf8b/artifacts
+end_time: 1753444988852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56cb39616b374a31a53a4bf55396bf8b
+run_name: skillful-bird-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444987805
+status: 3
+tags: []
+user_id: Shayan

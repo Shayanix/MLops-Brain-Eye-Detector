@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/4009bc8911514fe6ac590a344c87fc88/artifacts
+end_time: 1753444967579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4009bc8911514fe6ac590a344c87fc88
+run_name: entertaining-dog-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444964291
+status: 3
+tags: []
+user_id: Shayan

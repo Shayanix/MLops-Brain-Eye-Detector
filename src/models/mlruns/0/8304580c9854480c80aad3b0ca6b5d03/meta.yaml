@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/8304580c9854480c80aad3b0ca6b5d03/artifacts
+end_time: 1753444987796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8304580c9854480c80aad3b0ca6b5d03
+run_name: rumbling-wolf-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444986926
+status: 3
+tags: []
+user_id: Shayan

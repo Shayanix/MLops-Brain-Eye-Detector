@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/22ef2b99c45f45979092e8743eeed9cf/artifacts
+end_time: 1753444733492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22ef2b99c45f45979092e8743eeed9cf
+run_name: polite-cod-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444731733
+status: 4
+tags: []
+user_id: Shayan

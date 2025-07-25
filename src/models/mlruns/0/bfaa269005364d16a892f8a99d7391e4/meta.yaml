@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/bfaa269005364d16a892f8a99d7391e4/artifacts
+end_time: 1753444989224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfaa269005364d16a892f8a99d7391e4
+run_name: burly-grub-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444988860
+status: 3
+tags: []
+user_id: Shayan

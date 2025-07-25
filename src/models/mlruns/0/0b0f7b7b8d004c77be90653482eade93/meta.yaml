@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/0b0f7b7b8d004c77be90653482eade93/artifacts
+end_time: 1753444970790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b0f7b7b8d004c77be90653482eade93
+run_name: delightful-bear-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444967592
+status: 3
+tags: []
+user_id: Shayan

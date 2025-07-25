@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/b16cea8ba69f4111a0b49682f367c484/artifacts
+end_time: 1753444674746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b16cea8ba69f4111a0b49682f367c484
+run_name: defiant-robin-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444674683
+status: 4
+tags: []
+user_id: Shayan

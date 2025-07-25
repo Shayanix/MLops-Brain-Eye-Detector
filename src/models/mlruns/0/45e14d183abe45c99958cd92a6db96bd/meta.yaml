@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/45e14d183abe45c99958cd92a6db96bd/artifacts
+end_time: 1753444990254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45e14d183abe45c99958cd92a6db96bd
+run_name: spiffy-koi-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444989233
+status: 3
+tags: []
+user_id: Shayan

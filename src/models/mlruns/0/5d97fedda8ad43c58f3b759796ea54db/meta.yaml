@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/5d97fedda8ad43c58f3b759796ea54db/artifacts
+end_time: 1753444974601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d97fedda8ad43c58f3b759796ea54db
+run_name: intrigued-snipe-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444973137
+status: 3
+tags: []
+user_id: Shayan

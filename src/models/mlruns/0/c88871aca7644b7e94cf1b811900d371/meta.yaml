@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/c88871aca7644b7e94cf1b811900d371/artifacts
+end_time: 1753444997352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c88871aca7644b7e94cf1b811900d371
+run_name: rumbling-hound-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444996459
+status: 3
+tags: []
+user_id: Shayan

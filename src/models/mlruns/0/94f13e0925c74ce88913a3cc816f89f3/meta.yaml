@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/94f13e0925c74ce88913a3cc816f89f3/artifacts
+end_time: 1753444980545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f13e0925c74ce88913a3cc816f89f3
+run_name: salty-eel-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753444978476
+status: 3
+tags: []
+user_id: Shayan
