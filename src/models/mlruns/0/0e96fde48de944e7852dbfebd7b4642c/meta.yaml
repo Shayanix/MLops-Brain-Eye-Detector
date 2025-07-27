@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Shayan/Desktop/MLops-Brain-Eye-Detector/src/models/mlruns/0/0e96fde48de944e7852dbfebd7b4642c/artifacts
+deleted_time: 1753445523303
 end_time: 1753444705210
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0e96fde48de944e7852dbfebd7b4642c
 run_name: hyperopt_rf_search
 source_name: ''

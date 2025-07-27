@@ -1,0 +1,6 @@
+mlflow_tracking_uri: "file:./mlruns" # Using relative path for local tracking
+experiment_name: "EEG_Eye_State_Classification"
+model_name: "EEG-RF-Model"
+staging_stage: "Staging"
+production_stage: "Production"
+metric_to_optimize: "metrics.accuracy_score" # Example metric to find the best model
